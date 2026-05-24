@@ -1,4 +1,4 @@
-const clientCustomName = "صياء";
+const clientCustomName = "ضياء";
 const clientGender = "m";
 const clientEidiyaCode = "EID-500-VIP";
 const clientEnvelopeText = `ضياء
